@@ -22,7 +22,7 @@ import { PagesComponent } from './pages.component';
     ],
     imports: [
         SharedModule,
-        PAGES_ROUTES
+        PAGES_ROUTES,
     ]
     
 })
